@@ -2,6 +2,14 @@
 
 This repository contains the work of detection of cancerous skin cells on human body by image processing.
 
+__Team Members__
+1. Adithya Kumar Chinnakkonda Ravi
+2. Sagar Venkatachala Lingaraj
+3. Subramanya Nanjangud Gurumurthy
+4. Vigneshwaran Vaideshwaran 
+
+</br>
+
 ###### (Update 20/11/2020)
 - To learn how to write a README.md, Have a look and follow the tutorials on https://www.markdowntutorial.com/
 - To preview Markdown file on your VSCode, you can install Markdown Preview Enhanced Extension.
